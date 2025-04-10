@@ -6,7 +6,7 @@ A passionate AI/ML Developer from India
 * I'm currently working on Gen AI and NLP.
 * I'm currently learning and exploring text and vision-based transformers.
 * All my projects are available at [https://github.com/Tharshananth?tab=repositories](https://github.com/Tharshananth?tab=repositories)
-* Know about my experiences [https://drive.google.com/file/d/1tswqiW5j9yh-ghIwAzbeNCEVABRyHCaK/view?usp=sharing](https://drive.google.com/file/d/1G-E7S0bYz965rCLH96NT--QbI1F6rKC9/view?usp=sharing )
+* Know about my experiences [https://drive.google.com/file/d/1tswqiW5j9yh-ghIwAzbeNCEVABRyHCaK/view?usp=sharing](https://drive.google.com/file/d/16dQ6uOymdHUGI8nxr6UrALztWFxmhodo/view?usp=sharing)
 * How to reach me tharshananth969@gmail.com
 
 **Connect with me:**
