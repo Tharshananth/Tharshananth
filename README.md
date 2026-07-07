@@ -72,29 +72,7 @@ $ cat status.txt
 <a href="https://drive.google.com/file/d/1CnskkB6d4ywqmXli-xi00qmyhen_Zfwq/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
-<br>
 
-### 📌 Featured Projects
-
-<p>
-<a href="https://github.com/Tharshananth/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharshananth&repo=REPO_ONE&theme=dark" /></a>
-<a href="https://github.com/Tharshananth/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharshananth&repo=REPO_TWO&theme=dark" /></a>
-</p>
-<p>
-<a href="https://github.com/Tharshananth/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharshananth&repo=REPO_THREE&theme=dark" /></a>
-<a href="https://github.com/Tharshananth/REPO_FOUR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharshananth&repo=REPO_FOUR&theme=dark" /></a>
-</p>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tharshananth&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharshananth&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<br>
 
 ### 🐍 Snake eating my contributions
 
