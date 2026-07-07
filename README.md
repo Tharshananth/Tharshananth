@@ -11,7 +11,7 @@
 ```yaml
 name: Tharshananth N
 located_in: Chennai, India
-current_job: ML Intern          # EDIT ME
+current_job: ML Intern          
 education: [CCE B.Tech, Amrita school of engineering, 2023-2027]
 
 fields_of_interests:
@@ -24,8 +24,9 @@ fields_of_interests:
 
 technical_background:
   [
-    "[ADD YOUR PAST ROLE / INTERNSHIP HERE]",
-    "[ADD ANOTHER ROLE HERE]"
+    "ML Intern - BrainsightAI",
+    "mode- Hybrid",
+    "location - bangalore"
   ]
 
 currently_learning: ["Text & Vision Transformers", "MCP", "LangGraph"]
