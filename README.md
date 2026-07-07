@@ -1,66 +1,75 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=N+Tharshananth" alt="N Tharshananth" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tharshan+%F0%9F%91%8B;AI%2FML+Developer+from+India;Building+with+Gen+AI+%26+NLP;Exploring+Text+%26+Vision+Transformers" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=077A7D&center=true&vCenter=true&width=1000&height=50&lines=AI/ML+Engineer;Building+Scalable+Systems;Innovating+with+AI-Powered+Automation" alt="Software Engineer" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Tharshananth&label=Profile%20Visitors&color=40c463&style=flat" alt="profile visitors" />
+### 📋 About Me
 
-</div>
+```yaml
+name: Tharshananth N
+located_in: Chennai, India
+current_job: ML Intern          # EDIT ME
+education: [CCE B.Tech, Amrita school of engineering, 2023-2027]
 
-<br>
+fields_of_interests:
+  [
+    "Generative AI",
+    "NLP",
+    "Agentic AI",
+    "RAG Pipelines"
+  ]
 
-```bash
-$ whoami
-→ Tharshan · AI/ML Developer from India
+technical_background:
+  [
+    "[ADD YOUR PAST ROLE / INTERNSHIP HERE]",
+    "[ADD ANOTHER ROLE HERE]"
+  ]
 
-$ cat interests.txt
-→ Gen AI · NLP · Text & Vision Transformers
-
-$ cat projects.txt
-→ All my work → https://github.com/Tharshananth?tab=repositories
-
-$ cat status.txt
-→ Learning, building, and shipping AI systems every day
+currently_learning: ["Text & Vision Transformers", "MCP", "LangGraph"]
 ```
 
 <br>
 
-### 🛠 Tech Stack
+🛠 Tech Stack
 
-**Languages**
+Languages
+
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+Frameworks
 
-**Frameworks**
 <p>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="Keras"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace"/>
-<img src="https://avatars.githubusercontent.com/u/106961273?s=200&v=4" height="40" alt="LangChain"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
+Developer Tools
 
-**Developer Tools**
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="40" alt="Jetson"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1920px-Raspberry_Pi_Logo.svg.png" height="40" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 </p>
+Libraries
 
-**Libraries**
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
-
 <br>
 
 ### 📬 Connect with me
@@ -71,6 +80,10 @@ $ cat status.txt
 <a href="https://github.com/Tharshananth"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://drive.google.com/file/d/1CnskkB6d4ywqmXli-xi00qmyhen_Zfwq/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
+
+<br>
+
+
 
 
 
