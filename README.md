@@ -79,9 +79,8 @@ Libraries
 <a href="https://www.linkedin.com/in/tharshananth-n-756698288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tharshananth969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/Tharshananth"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://drive.google.com/file/d/1CnskkB6d4ywqmXli-xi00qmyhen_Zfwq/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1iR60OxrTmq0OgQ6NtozEo6A2XQyLJkqx/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
-
 <br>
 
 
